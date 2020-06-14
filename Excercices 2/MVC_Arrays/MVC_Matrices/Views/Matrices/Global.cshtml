@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Global";
+}
+
+<h2>Global</h2>
+
+<table border="1">
+    @for (int i = 0; i < ViewBag.lado; i++)
+    {
+        <tr>
+            @for (int j = 0; j < ViewBag.lado; j++)
+            {
+                <td style="padding: 15px"> @ViewBag.matriz[i, j] </td>
+
+            }
+        </tr>
+    }
+</table>
+

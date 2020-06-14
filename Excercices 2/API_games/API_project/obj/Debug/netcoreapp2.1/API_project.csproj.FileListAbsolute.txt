@@ -1,0 +1,16 @@
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\API_project.deps.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\API_project.runtimeconfig.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\API_project.runtimeconfig.dev.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\API_project.dll
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\bin\Debug\netcoreapp2.1\API_project.pdb
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.RazorAssemblyInfo.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.RazorAssemblyInfo.cs
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.AssemblyInfoInputs.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.AssemblyInfo.cs
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.RazorTargetAssemblyInfo.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.dll
+C:\Users\manel\Documents\GitHub\CSharp_basic\API_project\API_project\obj\Debug\netcoreapp2.1\API_project.pdb

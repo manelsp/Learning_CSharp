@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@if (ViewBag.edad >= 18)
+ {
+    <p> Hola @ViewBag.nombre puedes entrar </p>
+ }
+ else
+ {
+    <p> Acceso denegado. @ViewBag.nombre no puedes entrar</p>
+ }

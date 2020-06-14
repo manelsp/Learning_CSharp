@@ -1,0 +1,16 @@
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\APIWeb.deps.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\APIWeb.runtimeconfig.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\APIWeb.runtimeconfig.dev.json
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\APIWeb.dll
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\bin\Debug\netcoreapp2.1\APIWeb.pdb
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.RazorAssemblyInfo.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.RazorAssemblyInfo.cs
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.AssemblyInfoInputs.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.AssemblyInfo.cs
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.RazorTargetAssemblyInfo.cache
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.dll
+C:\Users\manel\Documents\GitHub\CSharp_basic\APIWeb\APIWeb\obj\Debug\netcoreapp2.1\APIWeb.pdb
