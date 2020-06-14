@@ -1,0 +1,15 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EDI.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EDI.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EDI.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.frmEdi.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EntityFramework.dll
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EntityFramework.xml
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manel\Documents\GitHub\ClassroomProjects\EDI\EDI\obj\Debug\EDI.csproj.CopyComplete

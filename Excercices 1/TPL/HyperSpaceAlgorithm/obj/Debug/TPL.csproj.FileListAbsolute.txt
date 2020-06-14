@@ -1,0 +1,10 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\bin\Debug\TPL.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\bin\Debug\TPL.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\bin\Debug\TPL.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.frmTPL.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TPL\HyperSpaceAlgorithm\obj\Debug\TPL.csprojAssemblyReference.cache

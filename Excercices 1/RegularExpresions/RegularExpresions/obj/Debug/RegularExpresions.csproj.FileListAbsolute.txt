@@ -1,0 +1,10 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\bin\Debug\RegularExpresions.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\bin\Debug\RegularExpresions.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\bin\Debug\RegularExpresions.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.Form1.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\RegularExpresions\RegularExpresions\obj\Debug\RegularExpresions.pdb

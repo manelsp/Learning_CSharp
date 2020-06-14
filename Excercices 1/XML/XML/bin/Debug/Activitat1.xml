@@ -1,0 +1,8 @@
+<troops>
+  <destacament name="Naboo Central">
+    <stormtrooper>
+      <name>AXZ-998</name>
+      <rank>Captain</rank>
+    </stormtrooper>
+  </destacament>
+</troops>

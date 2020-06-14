@@ -1,0 +1,9 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\bin\Debug\MathCalculus.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\bin\Debug\MathCalculus.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\bin\Debug\MathCalculus.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\obj\Debug\MathCalculus.MathCalculus.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\obj\Debug\MathCalculus.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\obj\Debug\MathCalculus.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\obj\Debug\MathCalculus.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\obj\Debug\MathCalculus.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Unit Test\MathCalculus\obj\Debug\MathCalculus.pdb

@@ -1,0 +1,11 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\bin\Debug\SpeedConversorSpecial.dll
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\bin\Debug\SpeedConversorSpecial.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\App\SpeedConversorSpecial.dll
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\App\SpeedConversorSpecial.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.frmSpeed.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.csproj.CopyComplete
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.dll
+C:\Users\manel\Documents\GitHub\ClassroomProjects\PV_POO\SpeedConversorSpecial\obj\Debug\SpeedConversorSpecial.pdb

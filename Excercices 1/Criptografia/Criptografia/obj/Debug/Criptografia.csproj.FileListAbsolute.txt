@@ -1,0 +1,11 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.Desencriptar.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Criptografia\Criptografia\obj\Debug\Criptografia.FormEncrypt.resources

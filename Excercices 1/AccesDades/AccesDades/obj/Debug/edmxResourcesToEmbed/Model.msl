@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="accesdadescovidModelStoreContainer" CdmEntityContainer="accesdadescovidEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="accesdadescovidModel.Categories">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="CodiCategoria" ColumnName="CodiCategoria" />
+          <ScalarProperty Name="DescCategoria" ColumnName="DescCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="accesdadescovidModel.Clients">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="Nomclient" ColumnName="Nomclient" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,12 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\bin\Debug\XML.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\bin\Debug\XML.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\bin\Debug\XML.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.frmMain.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.frmXmlReader.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\XML\XML\obj\Debug\XML.frmXmlDocument.resources

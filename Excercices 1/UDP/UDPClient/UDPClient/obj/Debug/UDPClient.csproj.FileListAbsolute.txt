@@ -1,0 +1,10 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\bin\Debug\UDPClient.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\UDP\UDPClient\UDPClient\obj\Debug\UDPClient.pdb

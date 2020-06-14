@@ -1,0 +1,10 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\bin\Debug\Estructura De Dades - Diccionari.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\bin\Debug\Estructura De Dades - Diccionari.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\bin\Debug\Estructura De Dades - Diccionari.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura De Dades - Diccionari.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura_De_Dades___Diccionari.Dictionary.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura_De_Dades___Diccionari.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura De Dades - Diccionari.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura De Dades - Diccionari.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura De Dades - Diccionari.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\Estructura De Dades - Diccionari\Estructura De Dades - Diccionari\obj\Debug\Estructura De Dades - Diccionari.pdb

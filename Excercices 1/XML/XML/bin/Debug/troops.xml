@@ -1,0 +1,37 @@
+<troops>
+	<division>Inner Ring South</division>
+	<destacament name="Naboo Central">
+		<squadron id="1">
+			<stormtrooper>
+				<name>AXZ-998</name>
+				<rank>Captain</rank>
+			</stormtrooper>
+			<stormtrooper>
+				<name>XXZ-556</name>
+				<rank>Soldier</rank>
+			</stormtrooper>
+			<stormtrooper>
+				<name>WXZ-782</name>
+				<rank>Soldier</rank>
+			</stormtrooper>
+		</squadron>
+		<squadron id="2">
+			<stormtrooper>
+				<name>AXZ-777</name>
+				<rank>Captain</rank>
+			</stormtrooper>
+			<stormtrooper>
+				<name>XXZ-122</name>
+				<rank>Soldier</rank>
+			</stormtrooper>
+			<stormtrooper>
+				<name>WXZ-334</name>
+				<rank>Soldier</rank>
+			</stormtrooper>
+			<stormtrooper>
+				<name>DTB-198</name>
+				<rank>Soldier</rank>
+			</stormtrooper>
+		</squadron>
+	</destacament>
+</troops>

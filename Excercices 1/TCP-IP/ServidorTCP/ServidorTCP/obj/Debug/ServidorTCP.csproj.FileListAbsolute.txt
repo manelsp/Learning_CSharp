@@ -1,0 +1,10 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\bin\Debug\ServidorTCP.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\bin\Debug\ServidorTCP.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\bin\Debug\ServidorTCP.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.Form1.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ServidorTCP\ServidorTCP\obj\Debug\ServidorTCP.pdb

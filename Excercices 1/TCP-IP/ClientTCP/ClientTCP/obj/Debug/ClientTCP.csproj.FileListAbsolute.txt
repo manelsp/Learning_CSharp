@@ -1,0 +1,10 @@
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csprojAssemblyReference.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Form1.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\manel\Documents\GitHub\ClassroomProjects\TCP-IP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb

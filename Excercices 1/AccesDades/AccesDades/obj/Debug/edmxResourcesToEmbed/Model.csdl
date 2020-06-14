@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="accesdadescovidModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="idCategoria" />
+    </Key>
+    <Property Name="idCategoria" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodiCategoria" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="DescCategoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Clients" Relationship="Self.FK_Clients_Categories" FromRole="Categories" ToRole="Clients" />
+  </EntityType>
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="idCliente" />
+    </Key>
+    <Property Name="idCliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nomclient" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="idCategoria" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Categories" Relationship="Self.FK_Clients_Categories" FromRole="Clients" ToRole="Categories" />
+  </EntityType>
+  <Association Name="FK_Clients_Categories">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="1" />
+    <End Role="Clients" Type="Self.Clients" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="idCategoria" />
+      </Principal>
+      <Dependent Role="Clients">
+        <PropertyRef Name="idCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="accesdadescovidEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Categories" />
+    <EntitySet Name="Clients" EntityType="Self.Clients" />
+    <AssociationSet Name="FK_Clients_Categories" Association="Self.FK_Clients_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Clients" EntitySet="Clients" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
